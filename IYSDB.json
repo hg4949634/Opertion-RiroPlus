@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1 - beta",
+    "Teachers": [{"tempnumber": 1,"name": "안준혁 선새니","id": "testid001","password": "password"}],
+    "Info": [{"number": 1,"title": "리로스쿨 추가 기능 베타버전 테스트 시작 공지",
+    "content": "리로스쿨에서의 달력 기능 추가 기능이 열렸으니 관전 부탁.","time": "2025-0-13-15-19-21"}],
+    "WorkList": [{"grade": 3,"class": 10,"month": 4, "date": 13,"subject": "testsub","content": "달력 기능 추가하기"},{"grade": 3, "class": 4, "month": 5, "date": 20,"subject": "사회문제탐구","content": "사회문제탐구"}, {"grade":3, "class": 10, "month":5,"date":19,"subject":"지구과학", "content":"좋은거하기"}]
+}
